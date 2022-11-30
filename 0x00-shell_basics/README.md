@@ -1,1 +1,1 @@
-Shell Basic Assignments
+Bash Scripting
